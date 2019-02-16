@@ -1,1 +1,17 @@
-@import url("tachyons-more-size.css");
+/* size: height width */
+@import url("_size.css");
+
+/* spacing: margin padding */
+@import url("_spacing.css");
+
+/* border: _border radius */
+@import url("_border.css");
+
+/* position */
+@import url("_position.css");
+
+/* transform */
+@import url("_transform.css");
+
+/* other */
+@import url("_other.css");

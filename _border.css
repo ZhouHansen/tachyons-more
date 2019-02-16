@@ -1,0 +1,19 @@
+.br--left-pill {
+    border-top-left-radius: 9999px;
+    border-bottom-left-radius: 9999px;
+}
+
+.br--right-pill {
+    border-top-right-radius: 9999px;
+    border-bottom-right-radius: 9999px;    
+}
+
+.br--top-pill {
+    border-top-left-radius: 9999px;
+    border-top-right-radius: 9999px;
+}
+
+.br--bottom-pill {
+    border-bottom-left-radius: 9999px;
+    border-bottom-right-radius: 9999px;    
+}

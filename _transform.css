@@ -1,0 +1,19 @@
+.trx-025{ transform: translateX(0.75rem); }
+.trx-05{ transform: translateX(0.5rem); }
+.trx-075{ transform: translateX(0.75rem); }
+.trx-1{ transform: translateX(1rem); }
+
+.trx--025{ transform: translateX(-0.75rem); }
+.trx--05{ transform: translateX(-0.5rem); }
+.trx--075{ transform: translateX(-0.75rem); }
+.trx--1{ transform: translateX(-1rem); }
+
+.try-025{ transform: translateY(0.75rem); }
+.try-05{ transform: translateY(0.5rem); }
+.try-075{ transform: translateY(0.75rem); }
+.try-1{ transform: translateY(1rem); }
+
+.try--025{ transform: translateY(-0.75rem); }
+.try--05{ transform: translateY(-0.5rem); }
+.try--075{ transform: translateY(-0.75rem); }
+.try--1{ transform: translateY(-1rem); }
