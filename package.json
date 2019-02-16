@@ -1,0 +1,11 @@
+{
+  "name": "tachyons-more",
+  "version": "1.0.2",
+  "description": "more detailed tachyons ⚡️",
+  "main": "tachyons-more.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhouhancheng (z308114274@gmail.com)",
+  "license": "MIT"
+}
